@@ -13,9 +13,9 @@ In order to use this, you will need to install the [ElasticPress](https://wordpr
 1. After installing the plugin in wordpress and activating it, navigate to the plugin settings and choose the "Self-Hosted" option.
 2. Add in your ElasticSearch URL. You can find your URL by:
 
-    (a) Navigate to the ElasticSearch service in your project.
-    (b) Your URL will be the only URL listed under 'Domains'.
-    (c) Your Password will also be shown on this page. Click 'show' to reveal it.
+    * (a) Navigate to the ElasticSearch service in your project.
+    * (b) Your URL will be the only URL listed under 'Domains'.
+    * (c) Your Password will also be shown on this page. Click 'show' to reveal it.
 
     Your URL will be in the format: `https://admin:PASSWORD@URL`
 
